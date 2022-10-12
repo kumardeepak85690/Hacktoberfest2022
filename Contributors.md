@@ -158,6 +158,7 @@
   [Mathew Ealy](https://github.com/MEaly-Icepts)
 - [Andrew Shoemaker](https://github.com/Ashoemaker-tech)
 - [Azhar Anowar](https://github.com/azharanowar)
+- [Manjunath Bhat K](https://github.com/thatcodechap)
 - [Piyush Ojha](https://github.com/ojhapiyush)
 - [Matt Black](https://github.com/mblackonline)
 - [Tommy Mapp](https://github.com/arkii1)
